@@ -1,0 +1,10 @@
+git clone repo-url
+git add . 
+git commit -m ""
+git checkout -b 
+git checkout 
+git push 
+git push --set-upstream origin <branch>
+git status
+git config --global user.name
+git config --global user.email
